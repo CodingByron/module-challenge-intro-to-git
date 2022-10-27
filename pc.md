@@ -18,9 +18,8 @@ Creating a branch allows for testing and developing in a separate place while le
 
 To review the changes in the code made by a contributor before attempting to merge it into a project.
 
-5. What is the command you can use to switch between branches? 
+5. What is the command you can use to switch between branches? For example you are working on the FIRSTNAME-LASTNAME branch and you want to switch back to main.
 
-For example you are working on the FIRSTNAME-LASTNAME branch and you want to switch back to main.
 git checkout
 
 6. Explain the difference between `git fetch`, `git merge` and `git pull`. What does each command do?
